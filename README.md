@@ -24,6 +24,6 @@
 </p>
 
 
-#### 6. O que acontece com v2 e θ2 se a impedância da linha de transmissão diminui ?
+#### 6. O que acontece com v2 e θ2 se a impedância da linha de transmissão diminuir ?
 
 #### Obs: não é permitido o uso de bibliotecas que implementam o método ou alguma parte dele. Então, utilize apenas as bibliotecas que foram utilizadas em sala de aula. 
